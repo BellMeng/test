@@ -13,11 +13,11 @@ import type {
 } from '~/types'
 
 export const SITE: Site = {
-  title: 'Litos',
+  title: 'Efil Wen',
   description: 'Litos is a blog theme built with Astro.js and Dnzzk2.',
-  website: 'https://litos.vercel.app/',
-  base: '/',
-  author: 'Dnzzk2',
+  website: 'https://BellMeng.github.io',
+  base: 'test',
+  author: 'Efil Wen',
   ogImage: '/og-image.jpg',
 }
 
